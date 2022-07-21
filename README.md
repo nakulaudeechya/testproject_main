@@ -1,2 +1,2 @@
 # testproject_main
-main ranch
+main branch
